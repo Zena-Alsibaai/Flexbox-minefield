@@ -67,7 +67,7 @@ main{
      
     color: transparent;
     background-color: #e4e4e4;
-    outline: 6px outset grey;
+    outline: 6px outset rgb(212, 212, 212);
     outline-offset: -6px;
 }
   
